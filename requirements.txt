@@ -3,3 +3,4 @@ abrox
 elfi
 pyabc
 cython
+graphviz
